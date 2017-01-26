@@ -21,7 +21,7 @@ const applicationMenu = { // app/menu.js
   redo: 'Shift+Z',
   cut: 'X',
   copy: isMac ? 'C' : 'Shift+C',
-  paste: 'V',
+  paste: 'Shift+V',
   selectAll: 'A',
   clear: 'K',
   emojis: isMac ? 'Ctrl+Cmd+Space' : '',
